@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render score 1`] = `
+<View>
+  <Text
+    style={
+      {
+        "color": "#020202",
+        "fontFamily": "Avenir",
+        "fontSize": 31.5,
+        "fontWeight": "800",
+      }
+    }
+  >
+    hello
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#020202",
+        "fontFamily": "Avenir",
+        "fontSize": 25,
+        "fontWeight": "400",
+      }
+    }
+  >
+    hello
+  </Text>
+</View>
+`;

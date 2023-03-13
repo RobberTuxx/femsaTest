@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render product name big 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Avenir",
+      "fontSize": 37.5,
+      "fontWeight": "800",
+    }
+  }
+>
+  Hello world!
+</Text>
+`;

@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render image product big 1`] = `
+<View
+  style={
+    {
+      "elevation": 5,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 2,
+        "width": 0,
+      },
+      "shadowOpacity": 0.25,
+      "shadowRadius": 3.84,
+    }
+  }
+>
+  <Image
+    source={
+      {
+        "uri": "https://loremflickr.com/640/480/business",
+      }
+    }
+    style={
+      {
+        "borderRadius": 10,
+        "height": 548,
+        "width": 548,
+      }
+    }
+  />
+</View>
+`;

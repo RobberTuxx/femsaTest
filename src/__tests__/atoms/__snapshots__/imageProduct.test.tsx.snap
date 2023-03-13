@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render image product 1`] = `
+<Image
+  source={
+    {
+      "uri": "https://loremflickr.com/640/480/business",
+    }
+  }
+  style={
+    {
+      "borderRadius": 10,
+      "height": 86,
+      "width": 86,
+    }
+  }
+/>
+`;

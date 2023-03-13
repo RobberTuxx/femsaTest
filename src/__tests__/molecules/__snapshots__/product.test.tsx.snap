@@ -1,0 +1,243 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Product 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "flexDirection": "row",
+      "marginVertical": 12.5,
+      "opacity": 1,
+      "width": 630,
+    }
+  }
+>
+  <Image
+    source={
+      {
+        "uri": "https://loremflickr.com/640/480/business",
+      }
+    }
+    style={
+      {
+        "borderRadius": 10,
+        "height": 86,
+        "width": 86,
+      }
+    }
+  />
+  <View
+    style={
+      {
+        "marginLeft": 19,
+        "width": 362.5,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#000000",
+          "fontFamily": "Avenir",
+          "fontSize": 22,
+          "fontWeight": "800",
+        }
+      }
+    >
+      product
+    </Text>
+    <Text
+      style={
+        {
+          "color": "#000000",
+          "fontFamily": "Avenir",
+          "fontSize": 19,
+          "fontWeight": "400",
+        }
+      }
+    >
+      11 de marzo de 2023
+    </Text>
+  </View>
+  <Text
+    style={
+      {
+        "color": "#FF0000",
+        "fontSize": 25,
+      }
+    }
+  >
+    -
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#000000",
+        "fontFamily": "Avenir",
+        "fontSize": 25,
+        "fontWeight": "800",
+        "width": 124,
+      }
+    }
+  >
+     
+    1000
+  </Text>
+  <Text
+    style={
+      {
+        "fontWeight": "800",
+      }
+    }
+  >
+    &gt;
+  </Text>
+</View>
+`;
+
+exports[`test nav render Product 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    {
+      "flexDirection": "row",
+      "marginVertical": 12.5,
+      "opacity": 1,
+      "width": 630,
+    }
+  }
+>
+  <Image
+    source={
+      {
+        "uri": "https://loremflickr.com/640/480/business",
+      }
+    }
+    style={
+      {
+        "borderRadius": 10,
+        "height": 86,
+        "width": 86,
+      }
+    }
+  />
+  <View
+    style={
+      {
+        "marginLeft": 19,
+        "width": 362.5,
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#000000",
+          "fontFamily": "Avenir",
+          "fontSize": 22,
+          "fontWeight": "800",
+        }
+      }
+    >
+      product
+    </Text>
+    <Text
+      style={
+        {
+          "color": "#000000",
+          "fontFamily": "Avenir",
+          "fontSize": 19,
+          "fontWeight": "400",
+        }
+      }
+    >
+      11 de marzo de 2023
+    </Text>
+  </View>
+  <Text
+    style={
+      {
+        "color": "#FF0000",
+        "fontSize": 25,
+      }
+    }
+  >
+    -
+  </Text>
+  <Text
+    style={
+      {
+        "color": "#000000",
+        "fontFamily": "Avenir",
+        "fontSize": 25,
+        "fontWeight": "800",
+        "width": 124,
+      }
+    }
+  >
+     
+    1000
+  </Text>
+  <Text
+    style={
+      {
+        "fontWeight": "800",
+      }
+    }
+  >
+    &gt;
+  </Text>
+</View>
+`;

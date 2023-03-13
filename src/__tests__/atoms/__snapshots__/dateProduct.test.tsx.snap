@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render date product 1`] = `
+<Text
+  style={
+    {
+      "color": "#000000",
+      "fontFamily": "Avenir",
+      "fontSize": 19,
+      "fontWeight": "400",
+    }
+  }
+>
+  11 de marzo de 2023
+</Text>
+`;
